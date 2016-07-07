@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/cfp.html</loc>
+    
+    <lastmod>2016-07-07T03:54:14.570Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/about-conference.html</loc>
     
-    <lastmod>2016-05-22T04:58:30.605Z</lastmod>
+    <lastmod>2016-07-07T03:48:48.399Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/location.html</loc>
+    
+    <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
   </url>
   
@@ -12,20 +26,6 @@
     <loc>http://thunderplainsconf.com/sponsorship.html</loc>
     
     <lastmod>2016-05-22T03:47:00.786Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/location.html</loc>
-    
-    <lastmod>2016-05-22T03:21:25.958Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/cfp.html</loc>
-    
-    <lastmod>2016-05-22T02:45:05.511Z</lastmod>
     
   </url>
   
