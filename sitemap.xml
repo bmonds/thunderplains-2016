@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/index.html</loc>
+    
+    <lastmod>2016-08-16T19:38:28.918Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/speakers/rob-carr/entry.html</loc>
     
     <lastmod>2016-08-16T18:18:16.072Z</lastmod>
@@ -306,13 +313,6 @@
     <loc>http://thunderplainsconf.com/speakers/ben-ilegbodu/bio.html</loc>
     
     <lastmod>2016-08-16T16:03:21.439Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/index.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.422Z</lastmod>
     
   </url>
   
