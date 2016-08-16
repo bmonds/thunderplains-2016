@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/bullets.html</loc>
+    
+    <lastmod>2016-08-16T18:17:21.144Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/description.html</loc>
+    
+    <lastmod>2016-08-16T18:16:25.992Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/bio.html</loc>
+    
+    <lastmod>2016-08-16T18:16:17.588Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/entry.html</loc>
+    
+    <lastmod>2016-08-16T18:16:01.303Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/speakers/rob-carr/bullets.html</loc>
     
     <lastmod>2016-08-16T18:14:35.782Z</lastmod>
@@ -282,27 +310,6 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/entry.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.437Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/description.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.434Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/bio.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.430Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/index.html</loc>
     
     <lastmod>2016-08-16T16:03:21.422Z</lastmod>
@@ -317,14 +324,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/location.html</loc>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    <loc>http://thunderplainsconf.com/location.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
