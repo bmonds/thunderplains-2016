@@ -2,23 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://thunderplainsconf.com/schedule.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/entry.html</loc>
     
-    <lastmod>2016-08-16T17:34:30.218Z</lastmod>
+    <lastmod>2016-08-16T17:54:01.928Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/entry.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/james-simpson/entry.html</loc>
     
-    <lastmod>2016-08-16T17:32:37.773Z</lastmod>
+    <lastmod>2016-08-16T17:53:53.917Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/entry.html</loc>
+    
+    <lastmod>2016-08-16T17:53:45.598Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/james-simpson/bullets.html</loc>
+    
+    <lastmod>2016-08-16T17:52:44.786Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/james-simpson/description.html</loc>
+    
+    <lastmod>2016-08-16T17:50:27.688Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/james-simpson/bio.html</loc>
+    
+    <lastmod>2016-08-16T17:50:13.833Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/bullets.html</loc>
     
-    <lastmod>2016-08-16T17:25:39.468Z</lastmod>
+    <lastmod>2016-08-16T17:48:55.201Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/bullets.html</loc>
+    
+    <lastmod>2016-08-16T17:48:22.453Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/description.html</loc>
+    
+    <lastmod>2016-08-16T17:46:43.171Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/bio.html</loc>
+    
+    <lastmod>2016-08-16T17:45:54.663Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/schedule.html</loc>
+    
+    <lastmod>2016-08-16T17:43:10.011Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/women-in-tech-panel/entry.html</loc>
+    
+    <lastmod>2016-08-16T17:42:27.035Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/civic-hacking-panel/entry.html</loc>
+    
+    <lastmod>2016-08-16T17:42:22.170Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/civic-hacking-panel/description.html</loc>
+    
+    <lastmod>2016-08-16T17:41:38.266Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/women-in-tech-panel/description.html</loc>
+    
+    <lastmod>2016-08-16T17:41:25.918Z</lastmod>
     
   </url>
   
@@ -156,48 +240,6 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/james-simpson/entry.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.453Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/james-simpson/description.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.452Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/james-simpson/bio.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.451Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/entry.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.449Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/description.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.447Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/bio.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.446Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/speakers/ben-ilegbodu/entry.html</loc>
     
     <lastmod>2016-08-16T16:03:21.443Z</lastmod>
@@ -254,14 +296,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/location.html</loc>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    <loc>http://thunderplainsconf.com/location.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
