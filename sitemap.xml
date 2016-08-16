@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/speakers/luke-crouch/bullets.html</loc>
+    
+    <lastmod>2016-08-16T18:03:58.877Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/luke-crouch/bio.html</loc>
+    
+    <lastmod>2016-08-16T18:02:52.358Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/luke-crouch/entry.html</loc>
+    
+    <lastmod>2016-08-16T18:01:03.411Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/luke-crouch/description.html</loc>
+    
+    <lastmod>2016-08-16T18:00:28.377Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/entry.html</loc>
     
     <lastmod>2016-08-16T17:54:01.928Z</lastmod>
@@ -198,27 +226,6 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/luke-crouch/entry.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.470Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/luke-crouch/description.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.468Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/luke-crouch/bio.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.467Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/speakers/kassandra-perch/entry.html</loc>
     
     <lastmod>2016-08-16T16:03:21.459Z</lastmod>
@@ -296,14 +303,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    <loc>http://thunderplainsconf.com/location.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/location.html</loc>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
