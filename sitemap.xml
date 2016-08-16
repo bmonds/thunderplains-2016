@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/entry.html</loc>
+    
+    <lastmod>2016-08-16T17:32:37.773Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/bullets.html</loc>
+    
+    <lastmod>2016-08-16T17:25:39.468Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/example-keynote/entry.html</loc>
+    
+    <lastmod>2016-08-16T16:34:21.530Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/bio.html</loc>
+    
+    <lastmod>2016-08-16T16:27:10.443Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/schedule.html</loc>
     
     <lastmod>2016-08-16T16:25:58.897Z</lastmod>
@@ -16,13 +44,6 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/example-keynote/entry.html</loc>
-    
-    <lastmod>2016-08-16T16:25:23.525Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/speakers/example-keynote/description.html</loc>
     
     <lastmod>2016-08-16T16:25:23.524Z</lastmod>
@@ -33,20 +54,6 @@
     <loc>http://thunderplainsconf.com/speakers/example-keynote/bio.html</loc>
     
     <lastmod>2016-08-16T16:25:23.523Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/entry.html</loc>
-    
-    <lastmod>2016-08-16T16:23:57.585Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/bio.html</loc>
-    
-    <lastmod>2016-08-16T16:22:49.063Z</lastmod>
     
   </url>
   
@@ -247,14 +254,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    <loc>http://thunderplainsconf.com/location.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/location.html</loc>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
