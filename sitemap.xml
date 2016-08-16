@@ -2,6 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/schedule.html</loc>
+    
+    <lastmod>2016-08-16T16:25:58.897Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/example/entry.html</loc>
+    
+    <lastmod>2016-08-16T16:25:43.039Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/example-keynote/entry.html</loc>
+    
+    <lastmod>2016-08-16T16:25:23.525Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/example-keynote/description.html</loc>
+    
+    <lastmod>2016-08-16T16:25:23.524Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/example-keynote/bio.html</loc>
+    
+    <lastmod>2016-08-16T16:25:23.523Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/entry.html</loc>
+    
+    <lastmod>2016-08-16T16:23:57.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/bio.html</loc>
+    
+    <lastmod>2016-08-16T16:22:49.063Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/description.html</loc>
+    
+    <lastmod>2016-08-16T16:20:24.980Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/tickets.html</loc>
     
     <lastmod>2016-08-16T16:08:02.880Z</lastmod>
@@ -68,27 +124,6 @@
     <loc>http://thunderplainsconf.com/speakers/luke-crouch/bio.html</loc>
     
     <lastmod>2016-08-16T16:03:21.467Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/entry.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.464Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/description.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.462Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/kent-c-dodds/bio.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.461Z</lastmod>
     
   </url>
   
@@ -198,13 +233,6 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/schedule.html</loc>
-    
-    <lastmod>2016-08-16T16:03:21.424Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/index.html</loc>
     
     <lastmod>2016-08-16T16:03:21.422Z</lastmod>
@@ -219,14 +247,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/location.html</loc>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    <loc>http://thunderplainsconf.com/location.html</loc>
     
     <lastmod>2016-07-07T03:48:48.399Z</lastmod>
     
@@ -250,13 +278,6 @@
     <loc>http://thunderplainsconf.com/contact.html</loc>
     
     <lastmod>2016-05-22T01:49:59.213Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/example/entry.html</loc>
-    
-    <lastmod>2016-05-21T23:16:08.303Z</lastmod>
     
   </url>
   
